@@ -1,0 +1,4 @@
+gradio
+opencv-python-headless
+fpdf
+yt-dlp
